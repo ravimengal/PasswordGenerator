@@ -92,7 +92,7 @@ label {
  .form{
   justify-content: center;
     align-items: center;
-    word-break: break-all;
+    float:right;
  }
    
 }

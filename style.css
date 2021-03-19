@@ -88,7 +88,8 @@ label {
         height : 100%;
         padding : auto;
         margine : auto;
-       border-radius: 30px
+       justify-content: center;
+    align-items: center;
         
     } 
    

@@ -88,9 +88,11 @@ label {
         height : 100%;
         padding : auto;
         margine : auto;
-       justify-content: center;
+        } 
+ .form{
+  justify-content: center;
     align-items: center;
-        
-    } 
+    word-break: break-all;
+ }
    
 }

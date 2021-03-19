@@ -96,7 +96,7 @@ label {
  }
  .passwordDisplay{
   
-  float:right;
+  padding-left:22px;
  }
    
 }
